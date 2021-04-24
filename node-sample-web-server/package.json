@@ -1,0 +1,16 @@
+{
+  "name": "node-sample-web-server",
+  "version": "1.0.0",
+  "description": "Node Sample Web Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "serve": "nodemon index"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.4.2",
+    "nodemon": "^2.0.4"
+  }
+}
